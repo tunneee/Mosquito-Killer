@@ -1,9 +1,6 @@
 # Mosquito Killer
 source: https://pysource.com/2021/08/24/how-i-built-a-computer-vision-game-with-opencv-mediapipe-and-python/
 
-install
-pygame
-mediapipe
-pyautogui
+pip install -r requirements.txt
 
-RUN: python main.py
+👉🏻python main.py
